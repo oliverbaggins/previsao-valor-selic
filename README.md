@@ -100,7 +100,7 @@ Métricas utilizadas:
 
 ## Autores
 
-Desenvolvido por [Gustavo Oliveira](https://github.com/oliverbaggins), [Luiz Lopes](https://github.com/luizlopesbr) e [Rodolfo Sousa](https://www.linkedin.com/in/orodolfojorge/) como parte da disciplina de Data Science e Big Data do curso de Sistemas de Informação.
+Desenvolvido por [Gustavo Oliveira](https://github.com/oliverbaggins), [Luiz Lopes](https://github.com/luizlopesbr) e [Rodolfo Jorge](https://www.linkedin.com/in/orodolfojorge/) como parte da disciplina de Data Science e Big Data do curso de Sistemas de Informação.
 
 ---
 
