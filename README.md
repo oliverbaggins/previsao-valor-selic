@@ -103,7 +103,3 @@ Métricas utilizadas:
 Desenvolvido por [Gustavo Oliveira](https://github.com/oliverbaggins), [Luiz Lopes](https://github.com/luizlopesbr) e [Rodolfo Jorge](https://www.linkedin.com/in/orodolfojorge/) como parte da disciplina de Data Science e Big Data do curso de Sistemas de Informação.
 
 ---
-
-## Licença
-
-Este projeto é acadêmico e sem fins lucrativos.
